@@ -1,0 +1,9 @@
+
+.input-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+button{
+  width: 150px;
+}
